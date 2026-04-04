@@ -12,9 +12,9 @@ public class TriPlanarCTViewer : MonoBehaviour
 
     // ===== ボクセル寸法（mm） =====
     [Header("Voxel size (mm)")]
-    public float voxelSizeXmm = 0.683f;
-    public float voxelSizeYmm = 0.683f;
-    public float voxelSizeZmm = 0.683f;
+    public float voxelSizeXmm = 0.625f;
+    public float voxelSizeYmm = 0.625f;
+    public float voxelSizeZmm = 0.625f;
 
     // ===== スライスインデックス =====
     [Header("Index (0-based)")]
